@@ -1,6 +1,4 @@
-# CraneQ
-
-[![Pond Stalk — a crane wading through a graph of jade nodes](https://raw.githubusercontent.com/craneq-io/craneq-io.github.io/main/assets/pond-stalk.webp)](https://craneq.io)
+<h1><img src="https://raw.githubusercontent.com/craneq-io/craneq-io.github.io/main/assets/craneq.png" alt="" width="64" height="64" align="absmiddle"> CraneQ</h1>
 
 We’re building an open-source tax rules engine in Lean. Start with a provision of the tax code, follow it into an executable rule, and see which facts determine the result.
 
