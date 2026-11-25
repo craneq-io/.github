@@ -12,4 +12,4 @@ We’re building an open-source tax rules engine in Lean. Start with a provision
 
 We’re at the beginning of this work. A useful first contribution is a narrowly scoped provision, its citation and effective date, and two fictional cases that exercise a condition or exception. Tax practitioners can help identify the distinction that matters. Lean developers can help express it precisely and check that the examples behave as expected.
 
-CraneQ’s paid tax-preparation product is developed separately. This organization is the home of the open engine that other projects will be able to inspect, run, and build on.
+This organization is the home of the open engine that other projects will be able to inspect, run, and build on.
